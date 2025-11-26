@@ -193,15 +193,11 @@
     });
 
   });
-
-  /**
-   * Initiate glightbox
-   */
+/**
+ * Initiate glightbox
+ */
 const glightbox = GLightbox({
   selector: '.glightbox'
 });
 
 })();
-=======
-})();
->>>>>>> 540a28c0b8cbbce3999a3363f96bd7d50b5bfbff
