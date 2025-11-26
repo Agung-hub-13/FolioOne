@@ -201,4 +201,8 @@
     selector: '.glightbox'
   });
 
+<<<<<<< HEAD
 })();
+=======
+})();
+>>>>>>> 540a28c0b8cbbce3999a3363f96bd7d50b5bfbff
